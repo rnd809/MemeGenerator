@@ -13,7 +13,7 @@ body {
 h1 {
   font-size: 3rem;
   font-family: "Holtwood One SC", serif;
-  color: crimson;
+  color: lightblue;
 }
 
 #sampleMeme {
@@ -71,7 +71,7 @@ h1 {
   width: 80%;
   height: 50px;
   border-radius: 10px;
-  background-color: crimson;
+  background-color: lightblue;
   color: white;
   border: none;
   font-size: 2rem;
@@ -118,7 +118,7 @@ input[type="url"] {
 
 .close:hover,
 .close:focus {
-  color: red;
+  color: lightblue;
   cursor: pointer;
 }
 
@@ -192,7 +192,7 @@ p {
 }
 
 #myMemes h2 {
-  color: darkred;
+  color: lightblue;
   width: 600px;
   text-align: center;
 }
