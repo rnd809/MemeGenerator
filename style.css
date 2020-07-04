@@ -103,7 +103,7 @@ input[type="url"] {
   height: 100%;
   width: 100%;
   overflow: hidden;
-  border: 1px solid red;
+  /* border: 1px solid red; */
 }
 
 /* The Close Button (x) */
@@ -162,7 +162,7 @@ p {
   overflow: hidden;
   background-color: white;
   position: relative;
-  border: 1px solid red;
+  /* border: 1px solid red; */
 }
 .imgcontainer div img {
   height: 100%;
@@ -218,7 +218,7 @@ hr {
   /* overflow: hidden; */
   background-color: white;
   position: relative;
-  border: 1px solid red;
+  /* border: 1px solid red; */
 }
 
 .collectionMemeLayout img {
